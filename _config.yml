@@ -1,7 +1,7 @@
 title: "MY SITE"
 description: "YES"
-baseurl: ""
-url: ""
+baseurl: "https://narumaito8990.github.io/site/"
+url: "https://narumaito8990.github.io/site/"
 
 exclude:
   - demo/
